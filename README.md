@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Trevarius
 - 👀 I’m interested in Coffee, Bikes and food!
 - 🌱 I’m currently learning to understand myself more.
-- 💞️ I’m looking to collaborate on Coffeestuff
+- 💞️ I’m looking to collaborate on coffeestuff and webdevelopment
 
 <!---
 Trevarius/Trevarius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
